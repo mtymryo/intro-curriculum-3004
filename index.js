@@ -8,7 +8,7 @@ function add(numbers) {
 }
 function multi(numbers){
     let result = 0;
-    for(number of numbers){
+    for(let number of numbers){
         result = result * number;
     }
     return result;
